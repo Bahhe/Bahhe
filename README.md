@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Baha Eddine
-- 👀 I’m interested in Information Technology, Inovation, science, sci-fi Future...
-- 🌱 I’m currently a Full Stack Web Developer, ( MERN ) stack
+- 👋 Hi, I’m Baha Eddine A self taught Software Engineer I'm 23 years old from Algeria
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently a Full Stack Web Developer core skills (Typescript, Javascript, React)
 - 💞️ I’m looking to collaborate on Web Development Projects To Sharpen My Skills
 - 📫 How to reach me Email: marchelldteach@gmail.com Instagram @therealbahaa
-
-<!---
-My name is Baha Eddine I'm obsessed with Technology I can't go a day without using my PC Basically I want to know everything related to 
-Technology thanks!
---->
