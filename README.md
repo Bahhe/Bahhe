@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently a Full Stack Web Developer core skills (Typescript, Javascript, React)
 - 💞️ I’m looking to collaborate on Web Development Projects To Sharpen My Skills
-- 📫 How to reach me Email: marchelldteach@gmail.com Instagram @therealbahaa
+- 📫 How to reach me Email: marchelldteach@gmail.com Twitter: @bahaedd53192806
