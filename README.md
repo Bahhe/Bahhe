@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Baha Eddine A self taught Software Engineer I'm 23 years old from Algeria
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently a Full Stack Web Developer core skills (Typescript, Javascript, React)
-- 💞️ I’m looking to collaborate on Web Development Projects To Sharpen My Skills
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me Email: marchelldteach@gmail.com Twitter: @bahaedd53192806
