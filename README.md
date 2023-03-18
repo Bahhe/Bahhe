@@ -25,5 +25,6 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahhe&layout=compact)](https://github.com/Bahhe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahhe&layout=compact&theme=tokyonight)](https://github.com/Bahhe/github-readme-stats)
