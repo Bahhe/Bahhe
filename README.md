@@ -1,12 +1,10 @@
 # Baha Eddine
 
-**`Software Engineer (React/Typescript)`**
+**`Software Engineer (React/Typescript/Javascript)`**
 
-- 👋 Hi, I’m Baha Eddine A self taught Software Engineer I'm 23 years old from Algeria
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently a Full Stack Web Developer core skills (Typescript, Javascript, React)
-- 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me Email: marchelldteach@gmail.com Twitter: @bahaedd53192806
+Hello and welcome to my GitHub profile! My name is Baha Eddine and I am a 23-year-old self-taught software engineer from Algeria. With core skills in JavaScript, TypeScript and ReactJS, I am passionate about developing innovative solutions that make a difference. Take a look at my repositories to see some of the exciting projects I have been working on. Thank you for visiting!
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -25,6 +23,6 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-#
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahhe&layout=compact&theme=tokyonight)](https://github.com/Bahhe/github-readme-stats)
