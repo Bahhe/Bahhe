@@ -27,3 +27,5 @@ Hello and welcome to my GitHub profile! My name is Baha Eddine and I am a 23-yea
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahhe&layout=compact&theme=tokyonight)](https://github.com/Bahhe/github-readme-stats)
+
+![Baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bahhe&show_icons=true&theme=radical)
