@@ -2,7 +2,7 @@
 
 **`Software Engineer (React/Typescript/Javascript)`**
 
-Hello and welcome to my GitHub profile! My name is Baha Eddine and I am a 23-year-old self-taught software engineer from Algeria. With core skills in JavaScript, TypeScript and ReactJS, I am passionate about developing innovative solutions that make a difference. Take a look at my repositories to see some of the exciting projects I have been working on. Thank you for visiting!
+Hello and welcome to my GitHub profile! My name is Baha Eddine and I am a 24-year-old self-taught software engineer from Algeria. With core skills in JavaScript, TypeScript and ReactJS, I am passionate about developing innovative solutions that make a difference. Take a look at my repositories to see some of the exciting projects I have been working on. Thank you for visiting!
 
 ---
 
